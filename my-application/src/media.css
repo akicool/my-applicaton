@@ -1,0 +1,11 @@
+@media (max-width: 435px) {
+    .btn-block {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .btn:hover {
+        scale: 1;
+        background-color: blueviolet;
+      }
+}
